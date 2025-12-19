@@ -1,9 +1,4 @@
 # Atelier 4 : Q-Learning / PONG
-
-**Université Abdelmalek Essaadi - Faculté des Sciences et Techniques de Tanger**  
-**Département Génie Informatique - Cycle Ingénieur LSI S3**  
-**Machine Learning - Pr. EL AACHAK LOTFI - 2025/2026**
-
 ## Description
 
 Implémentation de l'algorithme **Q-Learning** pour contrôler un agent intelligent dans le jeu **PONG**. L'agent apprend à jouer en interagissant avec l'environnement et en maximisant les récompenses cumulées.
@@ -111,6 +106,3 @@ Implémente la classe `Game` avec :
 - `GameLearning` : Orchestration de l'entraînement
 - Modes d'entraînement et de démonstration
 
-## Auteur
-
-EL GORRIM Mohamed - LSI S3 - 2025/2026
