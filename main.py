@@ -1,11 +1,5 @@
 """
-Atelier 4 : Main Training Script for Q-Learning Pong
-Université Abdelmalek Essaadi - FST Tanger
-Cycle Ingénieur LSI S3 - Machine Learning
-Pr. EL AACHAK LOTFI - 2025/2026
-
 Main script for training and evaluating Q-Learning agents in Pong.
-
 Modes:
 1. rl_vs_ai: Q-Learning agent vs Simple AI
 2. rl_vs_human: Q-Learning agent vs Human player
