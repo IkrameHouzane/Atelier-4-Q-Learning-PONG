@@ -1,9 +1,5 @@
 """
 Atelier 4 : Q-Learning Agent for Pong Game
-Université Abdelmalek Essaadi - FST Tanger
-Cycle Ingénieur LSI S3 - Machine Learning
-Pr. EL AACHAK LOTFI - 2025/2026
-
 Implementation of Q-Learning algorithm for controlling the player paddle in Pong.
 """
 
