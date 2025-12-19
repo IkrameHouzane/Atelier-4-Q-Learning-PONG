@@ -1,9 +1,5 @@
 """
 Atelier 4 : Pong Game with Q-Learning Agent Support
-Université Abdelmalek Essaadi - FST Tanger
-Cycle Ingénieur LSI S3 - Machine Learning
-Pr. EL AACHAK LOTFI - 2025/2026
-
 Pong game implementation with support for:
 - Agent RL vs Agent AI
 - Agent RL vs Human
